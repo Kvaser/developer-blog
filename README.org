@@ -5,6 +5,6 @@ This repository contains files that are referenced from the Kvaser Developer Blo
 1. Examining logged data - http://www.kvaser.com/developer-blog/examining-logged-data-with-kvmlib-and-py/
 2. Accessing Environment Variables from CANlib - http://www.kvaser.com/developer-blog/accessing-environment-variables-from-canlib-2-of-3
 3. Getting started with kvmlib - http://www.kvaser.com/developer-blog/getting-started-with-kvmlib/
-4. Adding script and triggers to a configuration - Not yet published
+4. Adding script and triggers to a configuration - https://www.kvaser.com/developer-blog/adding-script-and-triggers-to-a-configuration/
 5. Digging deeper into kvmlib - Not yet published
 6. Configure an SD card using kvmlib - Not yet published
